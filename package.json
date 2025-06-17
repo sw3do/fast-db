@@ -1,6 +1,6 @@
 {
   "name": "@sw3doo/fast-db",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "🚀 Ultra-fast native database for Node.js - High-performance C++ key-value store with dot notation support",
   "main": "index.js",
   "types": "index.d.ts",
