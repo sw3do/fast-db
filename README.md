@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/@sw3doo/fast-db.svg" alt="npm version">
-  <img src="https://img.shields.io/node/v/fast-@sw3doo/fast-db.svg" alt="Node.js">
+  <img src="https://img.shields.io/node/v/@sw3doo/fast-db.svg" alt="Node.js">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="Language">
   <img src="https://img.shields.io/github/license/sw3do/fast-db.svg" alt="License">
   <img src="https://img.shields.io/badge/Platform-Cross%20Platform-lightgrey.svg" alt="Platform">
