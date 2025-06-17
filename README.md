@@ -1,12 +1,12 @@
 # 🚀 FastDB - Ultra-Fast Native Database
 
 <p align="center">
-  <img src="https://img.shields.io/npm/v/@sw3doo/@sw3doo/fast-db.svg" alt="npm version">
-  <img src="https://img.shields.io/node/v/fast-@sw3doo/@sw3doo/fast-db.svg" alt="Node.js">
+  <img src="https://img.shields.io/npm/v/@sw3doo/fast-db.svg" alt="npm version">
+  <img src="https://img.shields.io/node/v/fast-@sw3doo/fast-db.svg" alt="Node.js">
   <img src="https://img.shields.io/badge/Language-C++-blue.svg" alt="Language">
-  <img src="https://img.shields.io/github/license/sw3do/@sw3doo/@sw3doo/fast-db-db.svg" alt="License">
+  <img src="https://img.shields.io/github/license/sw3do/fast-db.svg" alt="License">
   <img src="https://img.shields.io/badge/Platform-Cross%20Platform-lightgrey.svg" alt="Platform">
-  <img src="https://img.shields.io/npm/dm/@sw3doo/@sw3doo/fast-db-db.svg" alt="Downloads">
+  <img src="https://img.shields.io/npm/dm/@sw3doo/fast-db.svg" alt="Downloads">
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ yarn add @sw3doo/@sw3doo/fast-db
 ## 🔧 Quick Start
 
 ```javascript
-const Database = require('@sw3doo/@sw3doo/fast-db');
+const Database = require('@sw3doo/fast-db');
 
 // Create or open a database
 const db = new Database('myapp.db');
@@ -895,8 +895,8 @@ We welcome contributions! Here's how to get started:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/sw3do/@sw3doo/fast-db.git
-   cd @sw3doo/fast-db
+   git clone https://github.com/sw3do/fast-db.git
+   cd fast-db
    ```
 
 2. **Create a feature branch**
@@ -940,8 +940,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Support & Community
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sw3do/@sw3doo/fast-db/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/sw3do/@sw3doo/fast-db/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/sw3do/fast-db/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/sw3do/fast-db/discussions)
 - 📧 **Email**: [sw3do@github.com](mailto:sw3do@github.com)
 
 ## ⭐ Show Your Support
@@ -971,7 +971,7 @@ https://www.npmjs.com/package/@sw3doo/fast-db
 </p>
 
 <p align="center">
-  <a href="https://github.com/sw3do/@sw3doo/fast-db">GitHub</a> •
+  <a href="https://github.com/sw3do/fast-db">GitHub</a> •
   <a href="https://www.npmjs.com/package/@sw3doo/fast-db">NPM</a> •
-  <a href="https://github.com/sw3do/@sw3doo/fast-db/blob/main/LICENSE">License</a>
+  <a href="https://github.com/sw3do/fast-db/blob/main/LICENSE">License</a>
 </p> 
