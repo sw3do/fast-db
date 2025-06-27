@@ -83,7 +83,7 @@ npm install @sw3do/fast-db
 Or with yarn:
 
 ```bash
-yarn add @sw3doo/@sw3doo/fast-db
+yarn add @sw3doo/fast-db
 ```
 
 ## 🔧 Quick Start
